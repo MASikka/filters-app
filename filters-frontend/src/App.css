@@ -1,0 +1,31 @@
+.list {
+  text-align: left;
+  max-width: 750px;
+  margin: auto;
+}
+
+.submit-form {
+  max-width: 400px;
+  margin: auto;
+}
+
+.edit-form {
+  max-width: 300px;
+  margin: auto;
+}
+
+select {
+  margin-right: 5px;
+  margin-bottom: 5px;
+  margin-top: 10px;
+  padding: 3px;
+}
+button{
+  margin: 5px;
+}
+input{
+  margin-bottom: 10px;
+}
+#rowButtons{
+  padding-bottom: 10px;
+}
